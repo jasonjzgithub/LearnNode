@@ -1,0 +1,15 @@
+curl -i http://localhost:8080
+
+node debug first_server.js
+  help
+  list(10)
+  setBreakpoint(5)
+  cont; next;
+  repl - show variable value
+
+nodejs google group
+stackoverflow
+
+javascript:
+number, boolean, string;
+object, array, function: array and function are objects with special functions

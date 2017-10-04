@@ -1,0 +1,3 @@
+Where to find the coding assistant?
+  - in first_server.js, how to know the process_request(req, res) takes 2 parameters?
+How to know which function/class is asynch or synch?
